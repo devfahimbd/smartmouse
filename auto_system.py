@@ -27,3 +27,5 @@ while True:
         pyautogui.click()
     time.sleep(0.1)
 # followed best practice
+
+# removed redundancy
