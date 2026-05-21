@@ -31,3 +31,5 @@ while True:
 # removed redundancy
 
 # clean implementation
+
+# more explicit handling
