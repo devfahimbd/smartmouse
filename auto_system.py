@@ -35,3 +35,5 @@ while True:
 # more explicit handling
 
 # better separation of concerns
+
+# streamlined logic
