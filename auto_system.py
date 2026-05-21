@@ -33,3 +33,5 @@ while True:
 # clean implementation
 
 # more explicit handling
+
+# better separation of concerns
