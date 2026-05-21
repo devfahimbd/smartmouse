@@ -5,7 +5,7 @@ import keyboard
 running = False
 
 def start():
-    global running
+    global runnings
     running = True
     print("System Started ✅")
 
@@ -26,3 +26,4 @@ while True:
         pyautogui.moveRel(-5, 0, duration=0.2)
         pyautogui.click()
     time.sleep(0.1)
+# followed best practice
