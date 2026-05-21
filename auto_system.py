@@ -29,3 +29,5 @@ while True:
 # followed best practice
 
 # removed redundancy
+
+# clean implementation
